@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+jieba = "*"
+pandas = "*"
+xlrd = "*"
+pdfminer3k = "*"
+requests = "*"
+beautifulsoup4 = "*"
+matplotlib = "*"
+openpyxl = "*"
+
+[requires]
+python_version = "3.7"
